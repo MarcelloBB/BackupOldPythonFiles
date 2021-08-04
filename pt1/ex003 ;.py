@@ -1,0 +1,11 @@
+# // NAME:   MARCELLO B.
+# // BACKUP: EX1
+
+num1 = int(input('Insira um numero: '))
+num2 = int(input('Insira outro numero: '))
+
+tot = (num1+num2)
+
+print(f'Seu resultado foi de {tot}')
+
+           
